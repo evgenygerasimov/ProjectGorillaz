@@ -1,0 +1,20 @@
+[
+  {
+    "text": "Have you lost your memory? Do you accept the UFO challenge?",
+    "option1": "Accept the UFO challenge",
+    "option2": "Don't accept the UFO challenge",
+    "correctOption": 1
+  },
+  {
+    "text": "You have accepted the UFO challenge. Do you get up on the bridge to the captain?",
+    "option1": "Get up on the bridge to the captain",
+    "option2": "Don't get up on the bridge to the captain",
+    "correctOption": 1
+  },
+  {
+    "text": "You have gotten up on the bridge to the captain. Who are you?",
+    "option1": "Tell a truth about myself",
+    "option2": "Tell a lie about myself",
+    "correctOption": 1
+  }
+]
